@@ -1,7 +1,4 @@
-# print('* '*4)
-# print('* '*4)
-# print('* '*4)
-# print('* '*4)
+
 n=int(input("Enter the number of the row you want : "))
 #----------------------SQUARE-------------------------------
 for i in range (n):
