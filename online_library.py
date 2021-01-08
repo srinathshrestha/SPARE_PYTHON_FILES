@@ -29,9 +29,9 @@ if __name__ == '__main__':
 
     while (True):
         print(f"This is {srinath.name}'s library. Enter your choice to continue : ")
-        print("1. Display Books")
+        print("1. View Books")
         print("2. Lend a Book")
-        print("3. Add a Book")
+        print("3. Donate a Book")
         print("4. Return a Book")
         user_choice = input()
         if user_choice not in ['1', '2', '3', '4']:
